@@ -1,0 +1,4 @@
+# My Tech Goals at M4ACE
+-Learn AWS services 
+-Learn Git and Github
+-Learn python programming language 
