@@ -43,6 +43,24 @@ Delta compression using up to 4 threads
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 401 bytes | 200.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Ojarotade@DESKTOP-KHOUSFN MINGW64 ~/projects/my-first-project (main)
+$ git commit -m " i added all commands and the otputs"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Ojarotade@DESKTOP-KHOUSFN MINGW64 ~/projects/my-first-project (main)
+$ git push README.md
+fatal: invalid gitfile format: README.md
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Ojarotade@DESKTOP-KHOUSFN MINGW64 ~/projects/my-first-project (main)
+$ git push origin main
+Everything up-to-date
 To https://github.com/Joshua-2-dev8/my-first-project.git
    b29eaf4..87d6874  main -> main
 
